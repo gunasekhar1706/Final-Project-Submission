@@ -1,3 +1,3 @@
-# Final-Project-Submission
-Predictive Maintenance of Industrial Machinery
+# Predictive Maintenance of Industrial Machinery
+
 
