@@ -1,6 +1,7 @@
 # Predictive Maintenance of Industrial Machinery Project
 
-#Project Summary:
+Project Summary:
+
 This project focuses on Predictive Maintenance of Industrial Machinery using IBM Cloud Lite services and machine learning techniques. The primary objective is to anticipate machine failures before they occur, enabling proactive maintenance that minimizes unplanned downtime and operational costs.
 
 Using the Predictive Maintenance dataset from Kaggle, which includes critical features such as air temperature, process temperature, rotational speed, torque, and tool wear, the data was processed and analyzed entirely on IBM Watson Studio. The project leveraged AutoAI pipelines to automatically preprocess data, select features, and train multiple classification models to predict different failure types, including:
